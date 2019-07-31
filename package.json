@@ -1,0 +1,23 @@
+{
+  "name": "express-ipwhitelist",
+  "version": "1.0.0",
+  "description": "Middleware to express to filter ip by white list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiohilario/express-ipwhitelist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiohilario/express-ipwhitelist/issues"
+  },
+  "homepage": "https://github.com/claudiohilario/express-ipwhitelist#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
